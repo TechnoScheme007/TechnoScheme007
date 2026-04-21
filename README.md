@@ -8,26 +8,6 @@
 
   ---
 
-  ## Three instruments
-
-  **A shell that teaches shells.** Not an emulator. Not a wrapper. A deliberate theatrical pretense — a Python-authored
-  Linux terminal that stands in the room where Linux is not, and performs the part with dedication. One hundred and
-  twenty-five commands. Real scripting. Sandboxed mounts that reach through to the actual filesystem behind safety rails
-   that cannot be talked, bribed, or reasoned out of their convictions. For those preparing to leave Windows without,
-  ironically, leaving Windows first.
-
-  **A proof assistant that tolerates no lies.** A dependently-typed kernel in pure Python, a tactic language, and
-  theorems that must earn their keep or be thrown from the building. The system believes nothing it has not checked with
-   its own two hands. If the code does not type, the code is not true — and the system, being humorless on the matter,
-  will say so.
-
-  **A brain that pretends to think.** Three hundred named neurons of *Caenorhabditis elegans*, drawn from the primary
-  literature and not invented over lunch. Hodgkin-Huxley equations with every singularity preserved and respected.
-  Chemical synapses and gap junctions properly distinguished, as nature insists. A small, crawling, curious mind in a
-  Python package. Not alive — but not, I would argue, uninteresting.
-
-  ---
-
   ## Credo, with some urgency
 
   Every abstraction is an invitation to stop thinking. I decline the invitation, often and noisily.
