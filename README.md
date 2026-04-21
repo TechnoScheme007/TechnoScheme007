@@ -1,5 +1,3 @@
-# /dev/anon
-
   > Beneath this handle there is more than a handle. Beneath the handle, a mind. Beneath the mind, the stubborn,
   unfashionable insistence that the machines we obey should not remain strangers to us.
 
