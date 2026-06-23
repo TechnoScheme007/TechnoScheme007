@@ -28,9 +28,9 @@ Take what is useful. Fork what is wrong. Send questions and expect answers, thou
 
 <div align="center">
 
-<img alt="Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GH-USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=d8c7a8&icon_color=a8956f&text_color=cfcfcf&bg_color=0d1117" />
+<img alt="Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=TechnoScheme007&show_icons=true&rank_icon=github&hide_border=true&title_color=d8c7a8&icon_color=a8956f&text_color=cfcfcf&bg_color=0d1117" />
 &nbsp;
-<img alt="Top 5 languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GH-USERNAME&layout=compact&langs_count=5&hide_border=true&title_color=d8c7a8&text_color=cfcfcf&bg_color=0d1117" />
+<img alt="Top 5 languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoScheme007&layout=compact&langs_count=5&hide_border=true&title_color=d8c7a8&text_color=cfcfcf&bg_color=0d1117" />
 
 </div>
 
@@ -38,7 +38,7 @@ Take what is useful. Fork what is wrong. Send questions and expect answers, thou
 
 <div align="center">
 
-<img alt="Streak" src="https://streak-stats.demolab.com?user=YOUR-GH-USERNAME&hide_border=true&background=0d1117&stroke=30363d&ring=a8956f&fire=a8956f&currStreakNum=d8c7a8&sideNums=cfcfcf&currStreakLabel=a8956f&sideLabels=cfcfcf&dates=8b949e" />
+<img alt="Streak" src="https://streak-stats.demolab.com?user=TechnoScheme007&hide_border=true&background=0d1117&stroke=30363d&ring=a8956f&fire=a8956f&currStreakNum=d8c7a8&sideNums=cfcfcf&currStreakLabel=a8956f&sideLabels=cfcfcf&dates=8b949e" />
 
 </div>
 
@@ -46,7 +46,7 @@ Take what is useful. Fork what is wrong. Send questions and expect answers, thou
 
 <div align="center">
 
-<img alt="Activity graph" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GH-USERNAME&bg_color=0d1117&color=d8c7a8&line=a8956f&point=ffffff&area=true&hide_border=true" />
+<img alt="Activity graph" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechnoScheme007&bg_color=0d1117&color=d8c7a8&line=a8956f&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -54,12 +54,12 @@ Take what is useful. Fork what is wrong. Send questions and expect answers, thou
 
 <div align="center">
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR-GH-USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" />
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=TechnoScheme007&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" />
 
 </div>
 
 <div align="center">
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR-GH-USERNAME&label=OBSERVED&color=a8956f&style=flat" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=TechnoScheme007&label=OBSERVED&color=a8956f&style=flat" />
 
 </div>
